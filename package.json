@@ -1,9 +1,10 @@
 {
   "name": "AccommodationFinder",
   "version": "1.0.0",
-  "description": "AccommodationFinder is a web-based platform designed to help individuals find accommodation in their neighbourhood and cities.Landlords can list their available properties and users can search for accommodation that suits their preferences and requirements.The platform aims to simplify the process of finding and renting accommodation .",
-  "main": "index.js",
+  "description": "AccommodationFinder is a web-based platform designed to help individuals find accommodation in their neighbourhood and cities. Landlords can list their available properties and users can search for accommodation that suits their preferences and requirements. The platform aims to simplify the process of finding and renting accommodation.",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/Skhetha22/AccommodationFinder#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "body-parser": "^1.19.0"
   }
 }
