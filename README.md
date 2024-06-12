@@ -38,3 +38,4 @@ Improving the UI/UX to make the platform more intuitive and user-friendly.
 [ IMAGES ](
 Website link [https://skhetha22.github.io/AccommodationFinder/]
 [Screenshot (26)](https://github.com/Skhetha22/AccommodationFinder/assets/111485429/ee5172d5-cbac-4a2e-8691-92d2c6f5f195)
+Linkedln https://www.linkedin.com/posts/rabie-skhetha-7019b8203_accommodationfinder-streamlining-the-search-activity-7206481612509818880-G_q2?utm_source=share&utm_medium=member_desktop
